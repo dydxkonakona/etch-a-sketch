@@ -1,1 +1,2 @@
 # etch-a-sketch
+This is a browser version of something between a sketchpad and an Etch-A-Sketch. Implemented by using fundamental html and css together with DOM manipulation and events with javascript.
